@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style-bot.css">
+    <title>le-bot-discord</title>
+</head>
+<body>
+
+
+
+    <nav class="menu-nav">
+        <ul>
+            <li class="botn">
+                <a href="index.html">
+                Accueil
+                </a>
+            </li>
+            
+            <li class="botn">
+                <a href="serveurdiscord.html"target="_BLANK">
+                    Serveur discord
+                </a>
+            </li>
+            <li class="botn">
+                <a href="contact.html" target="_BLANK">
+                    Contact
+                </a>
+            </li>
+            <li class="botn">
+             <a href="botdiscord.html"target="_BLANK">
+                Bot discord
+            </a>
+        </li>
+       </ul>
+</nav>
+
+    <h1 class="ann">
+        Voici, XT le bot de modération qu'il faut, ajoutez le !
+    </h1>
+    
+    <img src="https://cdn.discordapp.com/attachments/811995276616794124/865224043002724362/unknown.png">
+    <button class="btn"onclick="window.location.href = 'https://discord.com/oauth2/authorize?client_id=761617496956207144&scope=bot&permissions=8589934591';" >
+        bot discord
+    </button>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style-contact.css">
+    <title>Contacter-nous</title>
+</head>
+<body>
+
+    <nav class="menu-nav">
+        <ul>
+            <li class="botn">
+                <a href="index.html">
+                Accueil
+                </a>
+            </li>
+            
+            <li class="botn">
+                <a href="serveurdiscord.html"target="_BLANK">
+                    Serveur discord
+                </a>
+            </li>
+            <li class="botn">
+                <a href="contact.html" target="_BLANK">
+                    Contact
+                </a>
+            </li>
+            <li class="botn">
+             <a href="botdiscord.html"target="_BLANK">
+                Bot discord
+            </a>
+        </li>
+       </ul>
+</nav>
+
+
+
+    <h1 class="contact">
+        Contactez nous sur discord : crester194#5380 /BELLOU4483#4033
+    </h1>
+    
+    </p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <title>𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙓𝙏</title>
+</head>
+<body>
+
+<!-- haut de la page -->
+
+<header>
+
+    <p> <img src="https://cdn.discordapp.com/attachments/811995276616794124/865243260615786506/logobotxt.png" class="logo" alt="" /> 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙓𝙏 ! 𝙇𝙚 𝙗𝙤𝙩 𝙙𝙚 𝙢𝙤𝙙𝙚𝙧𝙖𝙩𝙞𝙤𝙣 !</p>
+
+</header>
+
+
+<!-- menu nav -->
+
+
+    <nav class="menu-nav">
+        <ul>
+            <li class="btn">
+                <a href="#">
+                Accueil
+                    </a>
+            </li>
+            
+            <li class="btn">
+                <a href="serveurdiscord.html"target="_BLANK">
+                Serveur discord
+                    </a>
+            </li>
+            <li class="btn">
+                <a href="contact.html" target="_BLANK">
+                Contact
+                      </a>
+            </li>
+            <li class="btn">
+                <a href="botdiscord.html"target="_BLANK">
+                Bot discord
+               </a>
+            </li>
+        </ul>
+    </nav>
+
+        <div id="text1"></div>
+
+   <p class="bienvenue">
+       Bienvenue sur 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙓𝙏. 
+   </p>
+
+
+      </div>
+ </button>
+
+ <!-- contenue sous forme de boite -->
+
+ <img class="screen" src="https://cdn.discordapp.com/attachments/811995276616794124/865221411017326592/unknown.png">
+    
+<!-- pied de page -->
+
+
+    <footer>
+        <p class="copyright">
+            Copyright &copy; crester194/bellou4483/🐉๖̶ζ͜͡$osaツカタナ, Project XT Teams, 2021-2022 - All Right reserved
+
+        </p>   
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style-serveur-discord.css">
+    <title>le-serveur-discord</title>
+</head>
+
+<nav class="menu-nav">
+        <ul>
+            <li class="botn">
+                <a href="index.html">
+                Accueil
+                </a>
+            </li>
+            
+            <li class="botn">
+                <a href="serveurdiscord.html"target="_BLANK">
+                    Serveur discord
+                </a>
+            </li>
+            <li class="botn">
+                <a href="contact.html" target="_BLANK">
+                    Contact
+                </a>
+            </li>
+            <li class="botn">
+             <a href="botdiscord.html"target="_BLANK">
+                Bot discord
+            </a>
+        </li>
+       </ul>
+</nav>
+
+<body> 
+
+    <h1 class="titre">
+        Nos serveur discord. Voici nos serveur discord !
+    </h1>
+    
+    <button class="btn"onclick="window.location.href = 'https://discord.gg/aNGhxqX2';" >
+        𝘗𝘙𝘖𝘑𝘌𝘊𝘛 𝘟𝘛
+    </button>
+
+    <button class="btn"onclick="window.location.href = 'https://discord.gg/xkfpfwTSgU';" >
+        V2.TN
+    </button>
+    
+</body>
+</html>
